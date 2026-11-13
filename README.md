@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="ku" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -104,7 +104,7 @@
                         <span class="absolute inset-y-0 right-0 flex items-center pr-3.5 text-slate-400">
                             <i class="fa-solid fa-lock"></i>
                         </span>
-                        <input type="password" id="login-password" placeholder="پاسۆرد (بنەڕەتی: 009988)" required
+                        <input type="password" id="login-password" placeholder="پاسۆرد (بنەڕەتی: 098098)" required
                             class="w-full pr-10 pl-10 py-3 rounded-xl border border-slate-300 focus:border-wheat-500 focus:ring-2 focus:ring-wheat-200 outline-none text-left font-mono text-lg tracking-widest transition" dir="ltr">
                         <button type="button" onclick="togglePasswordVisibility('login-password', this)" class="absolute inset-y-0 left-0 flex items-center pl-3.5 text-slate-400 hover:text-slate-600">
                             <i class="fa-solid fa-eye"></i>
@@ -578,7 +578,7 @@
     ];
 
     let appState = {
-        password: '009988',
+        password: '098098',
         adminPhone: '07501234567',
         targetPeople: 1705,
         feePerPerson: 2000,
